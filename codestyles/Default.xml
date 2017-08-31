@@ -1,6 +1,7 @@
 <code_scheme name="Default">
   <option name="HTML_KEEP_WHITESPACES" value="true" />
   <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
+  <option name="HTML_QUOTE_STYLE" value="Single" />
   <JSCodeStyleSettings>
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
