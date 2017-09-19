@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="Directory '.../shared/cleaningstore-components/src - [CleaningStoreIOS]'" />
+    <option name="defaultScopeName" value="Directory '.../shared/cleaningstore-components/src - [CleaningStoreIOS]'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="Directory '.../shared/cleaningstore-components/src - [CleaningStoreIOS]'" />
   </component>
 </application>
